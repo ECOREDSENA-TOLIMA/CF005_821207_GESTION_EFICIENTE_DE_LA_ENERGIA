@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecoredsena-tolima.github.io/CF005_821207_GESTION_EFICIENTE_DE_LA_ENERGIA/#/)
 
 #
 
