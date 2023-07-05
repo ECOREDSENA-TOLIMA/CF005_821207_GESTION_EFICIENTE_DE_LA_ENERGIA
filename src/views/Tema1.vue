@@ -540,11 +540,6 @@
             figure
               img(src='@/assets/curso/temas/tema1/27.svg', alt='Texto que describa la imagen')
               figcaption.text-center Planta de emergencia
-        
-        
-    
-     
-
 </template>
 
 <script>

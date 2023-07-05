@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525" height="496" viewBox="0 0 525 496">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0.158" stop-color="#ff3131"/>
+      <stop offset="0.371" stop-color="#e5b341"/>
+      <stop offset="0.487" stop-color="#ffeb00"/>
+      <stop offset="0.567" stop-color="#2bd53f"/>
+      <stop offset="0.759" stop-color="#0900ff"/>
+      <stop offset="0.891" stop-color="#f02a39"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_152218" data-name="Grupo 152218" transform="translate(5166 11024)">
+    <g id="Grupo_152214" data-name="Grupo 152214">
+      <g id="Grupo_151873" data-name="Grupo 151873" transform="translate(4749 -12937.555)">
+        <rect id="Rectángulo_34282" data-name="Rectángulo 34282" width="525" height="496" rx="14" transform="translate(-9915 1913.555)" fill="#fff"/>
+      </g>
+    </g>
+    <rect id="Rectángulo_34299" data-name="Rectángulo 34299" width="31" height="377" transform="translate(-4877 -10963)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_120336" data-name="Trazado 120336" d="M-5037.309-10985.927v449.567" transform="translate(0 -19.509)" fill="none" stroke="#000" stroke-width="1"/>
+    <path id="Trazado_120337" data-name="Trazado 120337" d="M-5056.81-10970.878h19.156" transform="translate(0 -10.622)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120338" data-name="Trazado 120338" d="M-5056.81-10970.878h19.156" transform="translate(0 14.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120339" data-name="Trazado 120339" d="M-5056.81-10970.878h19.156" transform="translate(0 38.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120340" data-name="Trazado 120340" d="M-5056.81-10970.878h19.156" transform="translate(0 63.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120341" data-name="Trazado 120341" d="M-5056.81-10970.878h19.156" transform="translate(0 88.377)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120342" data-name="Trazado 120342" d="M-5056.81-10970.878h19.156" transform="translate(0 113.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120343" data-name="Trazado 120343" d="M-5056.81-10970.878h19.156" transform="translate(0 137.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120344" data-name="Trazado 120344" d="M-5056.81-10970.878h19.156" transform="translate(0 162.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120345" data-name="Trazado 120345" d="M-5056.81-10970.878h19.156" transform="translate(0 187.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120346" data-name="Trazado 120346" d="M-5056.81-10970.878h19.156" transform="translate(0 211.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120347" data-name="Trazado 120347" d="M-5056.81-10970.878h19.156" transform="translate(0 236.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120348" data-name="Trazado 120348" d="M-5056.81-10970.878h19.156" transform="translate(0 285.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120349" data-name="Trazado 120349" d="M-5056.81-10970.878h19.156" transform="translate(0 310.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120350" data-name="Trazado 120350" d="M-5056.81-10970.878h19.156" transform="translate(0 335.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120351" data-name="Trazado 120351" d="M-5056.81-10970.878h19.156" transform="translate(0 360.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120352" data-name="Trazado 120352" d="M-5056.81-10970.878h19.156" transform="translate(0 384.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <text id="_10_km" data-name="10 km" transform="translate(-5103 -10977)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">10 km</tspan></text>
+    <text id="_1_km" data-name="1 km" transform="translate(-5095 -10953)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1 km</tspan></text>
+    <text id="_100_m" data-name="100 m" transform="translate(-5104 -10929)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">100 m</tspan></text>
+    <text id="_10_m" data-name="10 m" transform="translate(-5096 -10905)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">10 m</tspan></text>
+    <text id="_1_m" data-name="1 m" transform="translate(-5087 -10880)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1 m</tspan></text>
+    <text id="_10_cm" data-name="10 cm" transform="translate(-5104 -10855)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">10 cm</tspan></text>
+    <text id="_1_cm" data-name="1 cm" transform="translate(-5095 -10830)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1 cm</tspan></text>
+    <text id="_1_mm" data-name="1 mm" transform="translate(-5100 -10806)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1 mm</tspan></text>
+    <text id="_1000_nm" data-name="1000 nm" transform="translate(-5121 -10731)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1000 nm</tspan></text>
+    <text id="_10_um" data-name="10 um" transform="translate(-5104 -10707)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">10 um</tspan></text>
+    <text id="_10_nm" data-name="10 nm" transform="translate(-5104 -10659)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">10 nm</tspan></text>
+    <text id="_100_um" data-name="100 um" transform="translate(-5112 -10684)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">100 um</tspan></text>
+    <text id="_100_pm" data-name="100 pm" transform="translate(-5113 -10608)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">100 pm</tspan></text>
+    <text id="_1_pm" data-name="1 pm" transform="translate(-5096 -10560)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1 pm</tspan></text>
+    <text id="_1_nm" data-name="1 nm" transform="translate(-5096 -10635)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1 nm</tspan></text>
+    <text id="_10_pm" data-name="10 pm" transform="translate(-5104 -10584)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">10 pm</tspan></text>
+    <text id="Ondas_largas" data-name="Ondas largas" transform="translate(-5018 -10967)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ondas largas</tspan></text>
+    <text id="Ondas_Medias" data-name="Ondas Medias" transform="translate(-5018 -10943)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ondas Medias</tspan></text>
+    <text id="Ondas_Cortas" data-name="Ondas Cortas" transform="translate(-5018 -10919)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ondas Cortas</tspan></text>
+    <text id="FM_-_VHF" data-name="FM - VHF" transform="translate(-5018 -10895)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">FM - VHF</tspan></text>
+    <text id="UHF" transform="translate(-5018 -10871)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">UHF</tspan></text>
+    <text id="SHF" transform="translate(-5018 -10847)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">SHF</tspan></text>
+    <text id="EHF" transform="translate(-5018 -10823)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">EHF</tspan></text>
+    <text id="Micro_-_Ondas" data-name="Micro - Ondas" transform="translate(-5018 -10796)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Micro - Ondas</tspan></text>
+    <text id="Infrarojo" transform="translate(-5018 -10769)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Infrarojo</tspan></text>
+    <text id="_100_um-2" data-name="100 um" transform="translate(-5112 -10780)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">100 um</tspan></text>
+    <path id="Trazado_120353" data-name="Trazado 120353" d="M-5056.81-10970.878h19.156" transform="translate(0 409.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <text id="_10_um-2" data-name="10 um" transform="translate(-5104 -10755)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">10 um</tspan></text>
+    <path id="Trazado_120354" data-name="Trazado 120354" d="M-5056.81-10970.878h19.156" transform="translate(0 261.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <text id="Ultravioleta" transform="translate(-5018 -10646)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ultravioleta</tspan></text>
+    <text id="Rayos_x" data-name="Rayos x" transform="translate(-5018 -10626)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Rayos x</tspan></text>
+    <text id="Rayos_Gamma" data-name="Rayos Gamma" transform="translate(-5018 -10606)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Rayos Gamma</tspan></text>
+    <text id="Rayos_cósmicos" data-name="Rayos cósmicos" transform="translate(-5018 -10556)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Rayos cósmicos</tspan></text>
+    <path id="Trazado_120355" data-name="Trazado 120355" d="M-5029.336-10680.5h89.583l62.942-276.692" transform="translate(0 -5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <path id="Trazado_120356" data-name="Trazado 120356" d="M-5029.336-10668h91.279l59.646,86.016" transform="translate(0 -5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <path id="Trazado_120357" data-name="Trazado 120357" d="M-5022.436-10680.5l12.575,12.575" transform="translate(0 -5)" fill="none" stroke="#000" stroke-width="1"/>
+    <path id="Trazado_120358" data-name="Trazado 120358" d="M-5022.436-10680.5l12.575,12.575" transform="translate(7 -5)" fill="none" stroke="#000" stroke-width="1"/>
+    <path id="Trazado_120359" data-name="Trazado 120359" d="M-5022.436-10680.5l12.575,12.575" transform="translate(14 -5)" fill="none" stroke="#000" stroke-width="1"/>
+    <path id="Trazado_120360" data-name="Trazado 120360" d="M-5022.436-10680.5l12.575,12.575" transform="translate(22 -5)" fill="none" stroke="#000" stroke-width="1"/>
+    <path id="Trazado_120361" data-name="Trazado 120361" d="M-5022.436-10680.5l12.575,12.575" transform="translate(29 -5)" fill="none" stroke="#000" stroke-width="1"/>
+    <path id="Trazado_120362" data-name="Trazado 120362" d="M-5022.436-10680.5l12.575,12.575" transform="translate(36 -5)" fill="none" stroke="#000" stroke-width="1"/>
+    <text id="_780_um" data-name="780 um" transform="translate(-4827 -10957)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">780 um</tspan></text>
+    <text id="Infrarrojo" transform="translate(-4827 -10986)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Infrarrojo</tspan></text>
+    <text id="_700_um" data-name="700 um" transform="translate(-4827 -10895)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">700 um</tspan></text>
+    <text id="_600_um" data-name="600 um" transform="translate(-4827 -10812)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">600 um</tspan></text>
+    <text id="_500_um" data-name="500 um" transform="translate(-4827 -10707)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">500 um</tspan></text>
+    <text id="_380_um" data-name="380 um" transform="translate(-4827 -10588)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">380 um</tspan></text>
+    <text id="Rojo" transform="translate(-4758 -10893)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Rojo</tspan></text>
+    <text id="Rojo_-_Naranja" data-name="Rojo - Naranja" transform="translate(-4758 -10832)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Rojo - Naranja</tspan></text>
+    <text id="Amarillo" transform="translate(-4758 -10788)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Amarillo</tspan></text>
+    <text id="Verde" transform="translate(-4758 -10731)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Verde</tspan></text>
+    <text id="Azul" transform="translate(-4758 -10670)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Azul</tspan></text>
+    <text id="Violeta" transform="translate(-4758 -10626)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Violeta</tspan></text>
+    <path id="Trazado_120363" data-name="Trazado 120363" d="M-5056.81-10970.878h10.523" transform="translate(210.81 8.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120364" data-name="Trazado 120364" d="M-5056.81-10970.878h10.523" transform="translate(210.81 69.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120365" data-name="Trazado 120365" d="M-5056.81-10970.878h10.523" transform="translate(210.81 154.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120366" data-name="Trazado 120366" d="M-5056.81-10970.878h10.523" transform="translate(210.81 258.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120367" data-name="Trazado 120367" d="M-5056.81-10970.878h10.523" transform="translate(210.81 384.378)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120368" data-name="Trazado 120368" d="M-5056.81-10970.878h6.638" transform="translate(210.81 17.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120369" data-name="Trazado 120369" d="M-5056.81-10970.878h6.638" transform="translate(210.81 34.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120370" data-name="Trazado 120370" d="M-5056.81-10970.878h6.638" transform="translate(210.81 51.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120371" data-name="Trazado 120371" d="M-5056.81-10970.878h6.638" transform="translate(210.81 87.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120372" data-name="Trazado 120372" d="M-5056.81-10970.878h6.638" transform="translate(210.81 104.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120373" data-name="Trazado 120373" d="M-5056.81-10970.878h6.638" transform="translate(210.81 121.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120374" data-name="Trazado 120374" d="M-5056.81-10970.878h6.638" transform="translate(210.81 138.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120375" data-name="Trazado 120375" d="M-5056.81-10970.878h6.638" transform="translate(210.81 172.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120376" data-name="Trazado 120376" d="M-5056.81-10970.878h6.638" transform="translate(210.81 189.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120377" data-name="Trazado 120377" d="M-5056.81-10970.878h6.638" transform="translate(210.81 206.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120378" data-name="Trazado 120378" d="M-5056.81-10970.878h6.638" transform="translate(210.81 223.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120379" data-name="Trazado 120379" d="M-5056.81-10970.878h6.638" transform="translate(210.81 239.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120380" data-name="Trazado 120380" d="M-5056.81-10970.878h6.638" transform="translate(210.81 274.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120381" data-name="Trazado 120381" d="M-5056.81-10970.878h6.638" transform="translate(210.81 291.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120382" data-name="Trazado 120382" d="M-5056.81-10970.878h6.638" transform="translate(210.81 308.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120383" data-name="Trazado 120383" d="M-5056.81-10970.878h6.638" transform="translate(210.81 324.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120384" data-name="Trazado 120384" d="M-5056.81-10970.878h6.638" transform="translate(210.81 340.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120385" data-name="Trazado 120385" d="M-5056.81-10970.878h6.638" transform="translate(210.81 356.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <path id="Trazado_120386" data-name="Trazado 120386" d="M-5056.81-10970.878h6.638" transform="translate(210.81 370.878)" fill="none" stroke="#12263f" stroke-width="1"/>
+    <text id="Ultravioleta-2" data-name="Ultravioleta" transform="translate(-4827 -10556)" fill="#12263f" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ultravioleta</tspan></text>
+  </g>
+</svg>
