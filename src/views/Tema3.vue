@@ -81,9 +81,23 @@
 
     .row.justify-content-center
       .col-lg-10.mb-5
-        figure
-          img(src='@/assets/curso/temas/tema3/8.svg', alt='Texto que describa la imagen')
+      .tabla-a.color-acento-botones.mb-5 
+        table
+          thead
+            tr
+              th Aplicación
+              th Valores Máximos de resistencia de Puesta a Tierra
+          tbody
+            tr
+              td.text-center Estructuras . . .
+              td.text-center 
+            tr
 
+    .row.justify-content-center
+      .col-lg-8
+        .cajon.color-primario.px-5.py-4.mb-4
+          p.mb-0 La verificación de conformidad del valor de resistencia del SPT con los valores de la tabla 9 solo puede ser efectuada midiendo dicha resistencia y para ello, retie recomienda el método de la caída de potencial mostrado en la siguiente figura:
+    
     .titulo-sexto.color-acento-contenido
       <b>Figura 11.</b> <i>Esquema de medición de resistencia de puesta a tierra (figura 15.5 retie)</i>
     

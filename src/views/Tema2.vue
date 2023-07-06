@@ -131,16 +131,50 @@
     .titulo-sexto.color-acento-contenido
       <b>Tabla 6.</b> <i>Niveles de iluminancia promedio mínimo para vías vehiculares (tabla 510.2.1.b retilap)</i>
     .row.justify-content-center
-      .col-lg-10
-        figure.mb-5
-          img(src='@/assets/curso/temas/tema2/14.svg')
-
+      .col-lg-10.mb-5
+        table.text-center
+          <tr>
+            <th rowspan="2">Clase De iluminación</th>
+            <th colspan="3">Valor promedio ( minimo mantenido) de iluminancia Según tipo de superficie de la via (luxes)</th>
+            <th>Uniformidad de la Iluminancia</th>
+          </tr>
+          <tr>
+            <th>R1</th>
+            <th>R2 y R3</th>
+            <th>R4</th>          
+            <th>Emin /Eprom (%)</th>
+          </tr>
+    
     .titulo-sexto.color-acento-contenido
       <b>Tabla 7.</b> <i>Niveles de iluminancia promedio mínimo para vías peatonales (tabla 510.2.2 RETILAP)</i>
-    .row.justify-content-center 
-      .col-lg-10
-        figure.mb-5
-          img(src='@/assets/curso/temas/tema2/15.svg')
+    .row.justify-content-center
+      .col-lg-10.mb-5
+        table.text-center
+          <tr>
+            <th rowspan="2">Clase De iluminación</th>
+            <th colspan="8">Iluminación Horizontal (luxes)</th>
+          </tr>
+          <tr>
+            <th></th>
+            <th>Valor promedio</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>Valor promedio</th>
+            <th></th>
+            <th></th>
+          </tr>
+          <tr>
+            <th>P1</th>
+            <th></th>
+            <th>20,0</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>7,5</th>
+            <th></th>
+            <th></th>
+          </tr>
 
     h3.text-center.mb-5(data-aos="fade-left") Medición de niveles de iluminación
     .row.justify-content-center 
