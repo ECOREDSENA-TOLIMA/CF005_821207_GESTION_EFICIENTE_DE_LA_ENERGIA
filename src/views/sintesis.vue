@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 Actualmente hay un orden diferente en cuanto a la reglamentación técnica respecto a la electricidad. Las normas técnicas, determinan unos indicadores de verificación de productos y del servicio, no solo para proteger al ser humano, sino también al medio ambiente a partir de la implementación de mecanismos de verificación, de acuerdo con lo que indica el RETIE y el RETILAP, en el siguiente gráfico podrá conocer los temas tratados en este componente formativo:
 
     .row.justify-content-center
       .col-lg-10.mb-5
