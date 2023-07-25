@@ -107,7 +107,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Trabajos en redes desenergizadas',
+        titulo: 'Cuadros de carga',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -140,7 +140,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Trabajos en redes desenergizadas',
+        titulo: 'Planos eléctricos',
         desarrolloContenidos: true,
       },
     ],
@@ -193,7 +193,7 @@ export default {
     {
       tema: 'Alambre y cables',
       referencia:
-        'Ministerio de Minas y Energía de Colombia. Resolución 90708 de 2013 y anexos. Por la cual se expide el Reglamento técnico de instalaciones eléctricas - RETIE, que fija las condiciones técnicas que garanticen la seguridad en los procesos de generación, transmisión, transformación, distribución y utilización de la energía eléctrica en la república de Colombia y se dictan otras disposiciones. Agosto 30 de 2013. ',
+        'Ministerio de Minas y Energía de Colombia. Resolución 90708 de 2013 y anexos. Por la cual se expide el Reglamento técnico de instalaciones eléctricas - <i>RETIE</i>, que fija las condiciones técnicas que garanticen la seguridad en los procesos de generación, transmisión, transformación, distribución y utilización de la energía eléctrica en la república de Colombia y se dictan otras disposiciones. Agosto 30 de 2013. ',
       tipo: 'Documento legal',
       link:
         'https://sic.gov.co/sites/default/files/files/reglamentos%20tecnicos/ANEXO%20GENERAL%20RETIE%20Res%2090708%20de%202013%20actualizado%20a%20Res%202017-03-29.pdf',
@@ -258,7 +258,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Resolución 90708 de 2013 y anexos. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento técnico de instalaciones eléctricas - RETIE, que fija las condiciones técnicas que garanticen la seguridad en los procesos de generación, transmisión, transformación, distribución y utilización de la energía eléctrica en la república de Colombia y se dictan otras disposiciones. Agosto 30 de 2013.',
+        'Resolución 90708 de 2013 y anexos. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento técnico de instalaciones eléctricas - <i>RETIE</i>, que fija las condiciones técnicas que garanticen la seguridad en los procesos de generación, transmisión, transformación, distribución y utilización de la energía eléctrica en la república de Colombia y se dictan otras disposiciones. Agosto 30 de 2013.',
       link:
         'https://sic.gov.co/sites/default/files/files/reglamentos%20tecnicos/ANEXO%20GENERAL%20RETIE%20Res%2090708%20de%202013%20actualizado%20a%20Res%202017-03-29.pdf',
     },

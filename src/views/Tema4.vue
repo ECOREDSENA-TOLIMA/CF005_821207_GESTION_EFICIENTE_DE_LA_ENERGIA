@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 4
       h1 Cuadros de carga
-    p.mb-5(data-aos="fade-left") La aplicación de los requisitos del retie y los de la NTC 2050 a las instalaciones eléctricas determina la distribución de los circuitos y la localización de las salidas para tomacorrientes y luminarias necesarias para atender la demanda de energía eléctrica del usuario. El cuadro de carga de una instalación es una herramienta que muestra en forma resumida las principales características de las cargas atendidas por el tablero de distribución y un ejemplo de su estructura se muestra en la siguiente tabla:  
+    p.mb-5(data-aos="fade-left") La aplicación de los requisitos del #[i RETIE] y los de la NTC 2050 a las instalaciones eléctricas determina la distribución de los circuitos y la localización de las salidas para tomacorrientes y luminarias necesarias para atender la demanda de energía eléctrica del usuario. El cuadro de carga de una instalación es una herramienta que muestra en forma resumida las principales características de las cargas atendidas por el tablero de distribución y un ejemplo de su estructura se muestra en la siguiente tabla:  
     .titulo-sexto.color-acento-contenido
       <b>Tabla 9.</b> <i>Cuadro de carga</i>
 
@@ -79,7 +79,7 @@
 
     .row.justify-content-center.align-items-center
       .col.lg-7
-          p La carga eléctrica de un equipo eléctrico según retie es la potencia eléctrica requerida para su funcionamiento. La carga nominal es la máxima potencia promedio que el equipo puede soportar continuamente sin deteriorarse. Este es el valor que el fabricante declara en la hoja de datos del producto. Y la demanda es el valor instantáneo de la carga en un momento determinado, por ejemplo, en una unidad familiar hay un circuito con 10 luces led de 12 [w] de potencia nominal cada una. La carga nominal del circuito es de 120 [w], pero la demanda corresponde a 48 [w] cuando hay 4 luces encendidas o 72 [w] cuando hay 6.
+          p La carga eléctrica de un equipo eléctrico según #[i RETIE] es la potencia eléctrica requerida para su funcionamiento. La carga nominal es la máxima potencia promedio que el equipo puede soportar continuamente sin deteriorarse. Este es el valor que el fabricante declara en la hoja de datos del producto. Y la demanda es el valor instantáneo de la carga en un momento determinado, por ejemplo, en una unidad familiar hay un circuito con 10 luces led de 12 [w] de potencia nominal cada una. La carga nominal del circuito es de 120 [w], pero la demanda corresponde a 48 [w] cuando hay 4 luces encendidas o 72 [w] cuando hay 6.
       .col.lg-5
         figure
           img(src='@/assets/curso/temas/tema4/2.svg', alt='Texto que describa la imagen')
@@ -113,7 +113,7 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-8
-        p De acuerdo con el retie la responsabilidad de la conformidad de una instalación es compartida entre el diseñador y el constructor y, un buen diseño empieza con una acertada caracterización de las cargas. Esta caracterización también es importante para gestionar el uso racional de la energía (URE) en los Sistemas de gestión energético. Por esta, razón es prioritario tener una idea general sobre el consumo de los electrodomésticos más comunes; de los diferentes estudios que se han realizado en este campo, el realizado en el 2009 por el organismo delegado para ejercer la función de regulación del Estado en los asuntos energéticos es la comisión de regulación de energía y gas (CREG), que incluye la tabla mostrada a continuación: 
+        p De acuerdo con el #[i RETIE] la responsabilidad de la conformidad de una instalación es compartida entre el diseñador y el constructor y, un buen diseño empieza con una acertada caracterización de las cargas. Esta caracterización también es importante para gestionar el uso racional de la energía (URE) en los Sistemas de gestión energético. Por esta, razón es prioritario tener una idea general sobre el consumo de los electrodomésticos más comunes; de los diferentes estudios que se han realizado en este campo, el realizado en el 2009 por el organismo delegado para ejercer la función de regulación del Estado en los asuntos energéticos es la comisión de regulación de energía y gas (CREG), que incluye la tabla mostrada a continuación: 
       .col.lg-4
         figure
           img(src='@/assets/curso/temas/tema4/4.svg', alt='Texto que describa la imagen')
@@ -154,7 +154,7 @@
     #t_4_3.titulo-segundo.color-acento-contenido
       h2 4.3 Salidas de iluminación
 
-    p.mb-5(data-aos="fade-left") En forma general, la cantidad de luminarias de un proyecto de iluminación, así como el tipo de fuente lumínica y tipo de luminaria seleccionada es el resultado final de la elaboración de un diseño ajustado a los requisitos establecidos por el retie y el retilap aplicables al proyecto; sin embargo, para proyectos de iluminación que de acuerdo con retilap no requieren diseño, como los de unidades de vivienda o como punto de partida para los que sí lo requieren, la cantidad de luminarias se puede estimar por comparación directa de la iluminancia promedio calculada por el área del proyecto, con los valores correspondientes a la actividad desarrollada en el área considerada establecidos por el RETILAP en la tabla 6. Estos cálculos se pueden organizar en una tabla como la siguiente:
+    p.mb-5(data-aos="fade-left") En forma general, la cantidad de luminarias de un proyecto de iluminación, así como el tipo de fuente lumínica y tipo de luminaria seleccionada es el resultado final de la elaboración de un diseño ajustado a los requisitos establecidos por el #[i RETIE] y el #[i RETILAP] aplicables al proyecto; sin embargo, para proyectos de iluminación que de acuerdo con #[i RETILAP] no requieren diseño, como los de unidades de vivienda o como punto de partida para los que sí lo requieren, la cantidad de luminarias se puede estimar por comparación directa de la iluminancia promedio calculada por el área del proyecto, con los valores correspondientes a la actividad desarrollada en el área considerada establecidos por el #[i RETILAP] en la tabla 6. Estos cálculos se pueden organizar en una tabla como la siguiente:
 
     .titulo-sexto.color-acento-contenido
       <b>Tabla 13.</b> <i>Tabla de iluminancias promedio por área del proyecto</i>
@@ -171,7 +171,7 @@
               th Flujo luminoso por Lámpara (lumen)
               th Cantidad deLámparas
               th Iluminancia(Lux)
-              th Iluminancia Promedio RETILAP (lux)
+              th Iluminancia Promedio #[i RETILAP] (lux)
               th Observaciones
 
 
