@@ -11,25 +11,94 @@
       <b>Tabla 9.</b> <i>Cuadro de carga</i>
 
     .row.justify-content-center
-      .col-lg-10.mb-5
-        table.text-center
-          <tr>
-            <th>Circuito</th>
-            <th>Toma Normal</th>
-            <th>Tomas Especial</th>
-            <th>Salida Alumbrado</th>
-            <th colspan="4">Potencia (w)</th>
-          </tr>
-          <tr>
-            <th></th>
-            <th></th>
-            <th></th>          
-            <th></th>
-            <th>R</th>
-            <th>S</th>
-            <th>T</th>
-            <th>Total</th>
-          </tr>
+      .col-12.mb-5
+        .tabla-a.color-acento-botones.mb-5 
+          table.text-center
+            thead
+              tr.text-small
+                th(rowspan="2") Circuito
+                th(rowspan="2") Toma Normal
+                th(rowspan="2") Tomas Especial
+                th(rowspan="2") Salida Alumbrado
+                th(colspan="4") Potencia (w)
+                th(rowspan="2") Factor de potencia
+                th(rowspan="2") Potencia total (VA)
+                th(rowspan="2") Corriente (A)
+                th(rowspan="2") Calibre conductor
+                th(rowspan="2") Diámetro ducto
+                th(rowspan="2") Protección
+                th(rowspan="2") Observaciones
+              tr.text-small
+                th R
+                th S
+                th T
+                th Total 
+            tbody
+              tr
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr
+                td Total
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              
 
     p.mb-5(data-aos="fade-left") <b>De acuerdo con lo anterior, revise esta didáctica que ayuda a complementar el tema que se viene explicando.</b>
 
@@ -38,43 +107,46 @@
         TabsA.color-acento-botones.mb-5
           .tarjeta.color-acento-botones--borde.p-4(titulo="Columna del circuito")
             h4 Columna del circuito
-            p This is a normal paragraph
+            p La columna del circuito es un número entero que corresponde a la posición del interruptor de protección en el tablero de distribución y a la cantidad de fases del circuito. Por ejemplo 1 para el caso monofásico, 1-2 para el caso de dos fases y 1-2-3 para el caso trifásico. Las columnas de tomas y salidas de alumbrado corresponden a la cantidad de cada elemento que es alimentado por ese circuito.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Columnas de potencia")
             h4 Columnas de potencia 
-            p Las columnas de potencia en vatios corresponden a la suma de las potencias nominales de los aparatos atendidos por el circuito y discriminados según la fase a la que esté conectado el circuito. Si el circuito es a 220V o trifásico el valor de potencia en cada fase corresponde a la mitad o a la tercera parte de la potencia total según corresponda.
+            p Las columnas de potencia en vatios corresponden a la suma de las potencias nominales de los aparatos atendidos por el circuito y discriminados según la fase a la que esté conectado el circuito. Si el circuito es a 220 V o trifásico el valor de potencia en cada fase corresponde a la mitad o a la tercera parte de la potencia total según corresponda.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Factor de potencia")
-            h4 Columna del circuito
-            p This is a normal paragraph
+            h4 Factor de potencia 
+            p El factor de potencia se toma de los datos del fabricante de los equipos. Cuando el circuito atiende salidas con diferentes f.p. Se toma un promedio aritmético, lo cual si bien no es exacto por ser una magnitud fasorial, el efecto del error introducido es aumentar la capacidad de los cables del circuito.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Valor de la columna")
-            h4 Columna del circuito
-            p This is a normal paragraph
+            h4 Valor de la columna
+            p El valor de la columna potencia aparente en voltio amperios se calcula dividiendo la potencia total en vatios entre el f.p. promedio del circuito.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Cálculo de la magnitud")
-            h4 Columna del circuito
-            p This is a normal paragraph
+            h4 Cálculo de la magnitud
+            p El valor de la columna potencia aparente en voltio amperios se calcula dividiendo la potencia total en vatios entre el f.p. promedio del circuito.
       .col-lg-3
         figure
-          img(src='@/assets/curso/temas/tema4/1.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/1.svg', alt='')
 
     p.mb-5(data-aos="fade-left") El calibre de los conductores se selecciona de acuerdo con la tabla 5 y el diámetro de los ductos de acuerdo con las tablas C1 a C10 del anexo C de la NTC 2050, como se muestra en la siguiente tabla:
 
     .titulo-sexto.color-acento-contenido
-      <b>Tabla 10.</b> <i>Número máximo de conductores y alambres de aparatos en tubo conduit rígido de PVC Schedule 80 (extracto de tabla C 9 del anexo C de la NTC2050)</i>
+      <b>Tabla 10.</b> <i>Número máximo de conductores y alambres de aparatos en tubo conduit rígido de PVC Schedule 80 (extracto de tabla C 9 del anexo C de la NTC 2050)</i>
 
-    .tabla-a.color-acento-botones.mb-5.mt-5 
-      table
-        thead
-          tr
-            th Letras De tipo
-            th Sección Transversal del Conductor
-            th Tamaño comercial mm Pulgadas
-        tbody
-          tr
-            td 
-            td 
-            td 
+    figure
+      img(src='@/assets/curso/temas/tema4/tabla11.svg', alt='')
+      figcaption Nota. Tomado de https://drive.google.com/file/d/0B0uO_Mh36Fv-VVVObDMtanZYeXM/view?resourcekey=0-UKxOFb8PpRs8vX-Vg9YEWQ página 823.
+    //- .tabla-a.color-acento-botones.mb-5.mt-5 
+    //-   table
+    //-     thead
+    //-       tr
+    //-         th Letras De tipo
+    //-         th Sección Transversal del Conductor
+    //-         th Tamaño comercial mm Pulgadas
+    //-     tbody
+    //-       tr
+    //-         td 
+    //-         td 
+    //-         td 
 
     separador
-    #t_4_1.titulo-segundo.color-acento-contenido
+    #t_4_1.titulo-segundo.color-acento-botones
       h2 4.1 Carga y demanda eléctrica
 
     .row.justify-content-center.align-items-center
@@ -94,9 +166,10 @@
       <b>Tabla 11.</b> <i>Factores de demanda por tipo de usuario (tabla 2.15 Norma Técnica ESSA)</i>   
 
     .row.justify-content-center 
-      .col-lg-8
+      .col-lg-10
         .tabla-a.color-acento-botones.mb-5
           table
+            caption Nota. Tomado de https://www.essa.com.co/site/Portals/proveedores/ntg-02%20marco%20general%20norma%20urbana%20%20.pdf?ver=2022-05-02-130335-283 página 19.
             thead
               tr
                 th Descripción
@@ -104,16 +177,59 @@
                 th Factor de demanda (%)
             tbody
               tr
-                td 
-                td 
-                td 
+                td
+                  p #[b Residencial]
+                  p.mb-0 Estratos 1 y 2
+                  p.mb-0 Estratos 3 y 4
+                  p.mb-0 Estratos 5 y 6
+                  p Carga áreas comunes 
+                td.text-center
+                  p.mb-0 Carga aparato mayor potencia 
+                  p Resto
+                  p.mb-0 Carga aparato mayor potencia 
+                  p Resto
+                  p.mb-0 Carga aparato mayor potencia 
+                  p Resto
+                  p.mb-0 Motores 
+                  p Resto
+                td.text-center
+                  p.mb-0 100
+                  p 50
+                  p.mb-0 100
+                  p 40
+                  p.mb-0 100
+                  p 40
+                  p.mb-0 100
+                  p 60
+              tr
+                td
+                  p #[b Comercial]
+                  p.mb-0 Tomas comunes
+                  p.mb-0 Alumbrado
+                  p.mb-0 Cargas especiales y áreas comunes
+                td.text-center
+                  p.mb-0 Primeros 5000
+                  p Sobre 5000
+                  p.mb-0 Primeros 50000
+                  p Sobre 50000
+                  p Total
+                td.text-center
+                  p.mb-0 100
+                  p 50
+                  p.mb-0 100
+                  p 50
+                  p 100
+              tr 
+                td #[b Industrial]
+                td(colspan="2") Según proyecto particular
+
     separador
-    #t_4_2.titulo-segundo.color-acento-contenido
+    #t_4_2.titulo-segundo.color-acento-botones
       h2 4.2 Carga nominal electrodomésticos comunes
 
     .row.justify-content-center.align-items-center
       .col-lg-8
-        p De acuerdo con el #[i RETIE] la responsabilidad de la conformidad de una instalación es compartida entre el diseñador y el constructor y, un buen diseño empieza con una acertada caracterización de las cargas. Esta caracterización también es importante para gestionar el uso racional de la energía (URE) en los Sistemas de gestión energético. Por esta, razón es prioritario tener una idea general sobre el consumo de los electrodomésticos más comunes; de los diferentes estudios que se han realizado en este campo, el realizado en el 2009 por el organismo delegado para ejercer la función de regulación del Estado en los asuntos energéticos es la comisión de regulación de energía y gas (CREG), que incluye la tabla mostrada a continuación: 
+        p De acuerdo con el #[i RETIE] la responsabilidad de la conformidad de una instalación es compartida entre el diseñador y el constructor y, un buen diseño empieza con una acertada caracterización de las cargas. Esta caracterización también es importante para gestionar el uso racional de la energía (URE) en los Sistemas de gestión energética. Por esta razón, es prioritario tener una idea general sobre el consumo de los electrodomésticos más comunes; de los diferentes estudios que se han realizado en este campo, el realizado en el 2009 por el organismo delegado para ejercer la función de regulación del Estado en los asuntos energéticos es la comisión de regulación de energía y gas (CREG), que incluye la tabla mostrada a continuación: 
       .col.lg-4
         figure
           img(src='@/assets/curso/temas/tema4/4.svg', alt='Texto que describa la imagen')
@@ -133,6 +249,12 @@
               tr
                 td Nevera
                 td 250
+              tr
+                td Televisor
+                td 150
+              tr 
+                td Reproductor de DVD
+                td 150
                   
     p.mb-5(data-aos="fade-left") Posterior a la publicación del estudio algunos equipos con motores de inducción como aires acondicionados y lavadoras adoptaron la tecnología “inverter”, la cual les permite desarrollar las mismas funciones, pero con una disminución aproximada de un 40% de la potencia nominal de los equipos sin esa tecnología. En el 2011 mediante el Decreto 3450 de 2008 se prohíbe la importación, distribución y uso de fuentes lumínicas de baja eficacia como las incandescentes, entre otras. Actualmente se usan lámparas led de potencia nominal 12 y 9 [w], las cuales emiten un flujo luminoso equivalente a las bombillas incandescentes de 100 y 60 [w] respectivamente.
 

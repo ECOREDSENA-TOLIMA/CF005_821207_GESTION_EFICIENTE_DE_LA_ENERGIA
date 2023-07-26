@@ -620,7 +620,6 @@
           .col-sm-4
             figure
               img(src='@/assets/curso/temas/tema1/27.svg', alt='')
-              figcaption.text-center Planta de emergencia
 </template>
 
 <script>
