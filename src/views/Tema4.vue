@@ -241,6 +241,7 @@
       .col-lg-8
         .tabla-a.color-acento-botones.mb-5
           table.text-center
+            caption Nota. Tomado de http://apolo.creg.gov.co/Publicac.nsf/0/925c4f40c27f9fca0525785a007a6fe8/$FILE/CIRCULAR024-2008%20T-3.pdf página 7. 
             thead
               tr
                 th Electrodomésticos básicos de un hogar
@@ -255,6 +256,57 @@
               tr 
                 td Reproductor de DVD
                 td 150
+              tr 
+                td Equipo de sonido
+                td 100
+              tr 
+                td Aire acondicionado
+                td 5000
+              tr 
+                td Horno microondas
+                td 1800
+              tr 
+                td Olla arrocera
+                td 1200
+              tr 
+                td Parrilla pequeña alto
+                td 1500
+              tr 
+                td Sanduchera
+                td 1200
+              tr 
+                td Licuadora
+                td 600 
+              tr 
+                td Cafetera
+                td 800 
+              tr 
+                td Lavadora
+                td 750
+              tr 
+                td Plancha
+                td 1000
+              tr 
+                td Grabadora
+                td 100
+              tr 
+                td Ventilador pequeño
+                td 100
+              tr 
+                td Computador
+                td 800
+              tr 
+                td Ducha eléctrica
+                td 1500
+              tr 
+                td Secador
+                td 1500
+              tr 
+                td Bombilla de 60 W
+                td 60
+              tr 
+                td Bombilla de 100 W
+                td 100
                   
     p.mb-5(data-aos="fade-left") Posterior a la publicación del estudio algunos equipos con motores de inducción como aires acondicionados y lavadoras adoptaron la tecnología “inverter”, la cual les permite desarrollar las mismas funciones, pero con una disminución aproximada de un 40% de la potencia nominal de los equipos sin esa tecnología. En el 2011 mediante el Decreto 3450 de 2008 se prohíbe la importación, distribución y uso de fuentes lumínicas de baja eficacia como las incandescentes, entre otras. Actualmente se usan lámparas led de potencia nominal 12 y 9 [w], las cuales emiten un flujo luminoso equivalente a las bombillas incandescentes de 100 y 60 [w] respectivamente.
 
@@ -285,16 +337,87 @@
       .tabla-a.color-acento-botones.mb-5
         table.text-center
           thead
-            tr
+            tr.text-small
               th Ubicación
               th Largo (m)
               th Ancho (m)
-              th Area (m2)
-              th Flujo luminoso por Lámpara (lumen)
-              th Cantidad deLámparas
-              th Iluminancia(Lux)
+              th Area (m#[sup 2])
+              th Flujo luminoso por lámpara (lumen)
+              th Cantidad de lámparas
+              th Iluminancia (lux)
               th Iluminancia Promedio #[i RETILAP] (lux)
               th Observaciones
+          tbody
+            tr
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+            tr
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+            tr
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+            tr
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+            tr
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+            tr
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+            tr
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
+              td
 
 
     separador
@@ -322,6 +445,26 @@
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
                 p <b>Requisito 4.</b> Todas las paredes adyacentes al lavamanos deben tener instalado un tomacorriente.
+                
+            .row.justify-content-center.align-items-center
+              .col-md-8.mb-4.mb-md-0
+                p <b>Requisito 5.</b> Se debe instalar como mínimo un tomacorriente especial para la lavadora y la plancha.
+                
+            .row.justify-content-center.align-items-center
+              .col-md-8.mb-4.mb-md-0
+                p <b>Requisito 6.</b> La potencia nominal mínima de un tomacorriente normal es 180 [VA] y su f.p. 0.95.
+                
+            .row.justify-content-center.align-items-center
+              .col-md-8.mb-4.mb-md-0
+                p <b>Requisito 7.</b> El f.p. de salidas de motores de equipos grandes como, por ejemplo, aires acondicionados y nevecones, en ausencia del dato del fabricante deben considerarse en 0.85.
+                
+            .row.justify-content-center.align-items-center
+              .col-md-8.mb-4.mb-md-0
+                p <b>Requisito 8.</b> El f.p. de salidas de motores de equipos pequeños como, por ejemplo, ventiladores, licuadoras y lavadoras, en ausencia del dato del fabricante deben considerarse en 0.9.
+                
+            .row.justify-content-center.align-items-center
+              .col-md-8.mb-4.mb-md-0
+                p <b>Requisito 9.</b> Las salidas de iluminación led y fluorescente sin corrección del f.p., en ausencia del dato del fabricante deben considerarse en 0.9.
       .col-4
         figure
           img(src='@/assets/curso/temas/tema4/6.svg', alt='Texto que describa la imagen')
@@ -338,19 +481,23 @@
           PasosB.color-acento-contenido
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
-                p <b>Requisito 1.</b> deben existir por lo menos dos circuitos de 20 [A], uno para plancha y lavadora y otro para pequeños artefactos con una capacidad nominal de 1800 [VA] cada uno.
+                p <b>Requisito 1.</b> Deben existir por lo menos dos circuitos de 20 [A], uno para plancha y lavadora y otro para pequeños artefactos con una capacidad nominal de 1800 [VA] cada uno.
             
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
-                p <b>Requisito 2.</b> el conductor del neutro debe tener el mismo calibre de la fase; excepto para circuitos trifásicos tetrafilares en donde se puede reducir al 70% de la fase.
+                p <b>Requisito 2.</b> El conductor del neutro debe tener el mismo calibre de la fase; excepto para circuitos trifásicos tetrafilares en donde se puede reducir al 70% de la fase.
             
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
-                p <b>Requisito 3.</b> dos circuitos ramales de fases diferentes que compartan ducto pueden usar un mismo neutro, pero su calibre debe ser el mismo del de la fase de mayor calibre.
+                p <b>Requisito 3.</b> Dos circuitos ramales de fases diferentes que compartan ducto pueden usar un mismo neutro, pero su calibre debe ser el mismo del de la fase de mayor calibre.
             
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
-                p <b>Requisito 4.</b> se deben dejar 30% de puestos libres de reserva en cada tablero.
+                p <b>Requisito 4.</b> Se deben dejar 30% de puestos libres de reserva en cada tablero.
+                
+            .row.justify-content-center.align-items-center
+              .col-md-8.mb-4.mb-md-0
+                p <b>Requisito 5.</b> La protección y calibre de circuitos ramales deben cumplir con las condiciones mínimas establecidas en la Tabla 5. Resumen de los requisitos de circuitos ramales. (tabla 210.24 NTC 2050).
       .col-4
         figure
           img(src='@/assets/curso/temas/tema4/7.svg', alt='Texto que describa la imagen')

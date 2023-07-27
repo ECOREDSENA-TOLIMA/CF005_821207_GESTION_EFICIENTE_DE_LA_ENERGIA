@@ -55,24 +55,23 @@
       .col-sm-6.col-lg-5.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
+            .titulo-sexto.color-acento-contenido
+              <b>Figura 2.</b> <i>Distribución de cargas en corriente continua</i>
             .col-7.mb-3
               figure
                 img(src='@/assets/curso/temas/tema1/4.svg', alt='')
 
             p El cobre y el aluminio son los materiales más usados en la fabricación de conductores, porque además de tener baja resistividad eléctrica, son flexibles para facilitar su instalación y dúctiles para permitir su fabricación.
             p Cuando una corriente continua circula en un alambre, las cargas eléctricas se distribuyen uniformemente en toda el área del conductor,  ver figura.
-            .titulo-sexto.color-acento-contenido
-              <b>Figura 2.</b> <i>Distribución de cargas en corriente continua</i>
       .col-sm-6.col-lg-5.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
+            .titulo-sexto.color-acento-contenido
+              <b>Figura 3.</b> <i>Distribución de cargas en corriente alterna</i>
             .col-7.mb-3
               figure
                 img(src='@/assets/curso/temas/tema1/5.svg', alt='')
-
             p Cuando una corriente alterna circula en un alambre, las cargas eléctricas se distribuyen con mayor densidad en la periferia que en el centro del conducto,  ver figura.
-            .titulo-sexto.color-acento-contenido
-              <b>Figura 3.</b> <i>Distribución de cargas en corriente alterna</i>
 
       .col-sm-6.col-lg-5.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4.mt-2
@@ -87,13 +86,12 @@
       .col-sm-6.col-lg-5.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
+            .titulo-sexto.color-acento-contenido
+              <b>Figura 4.</b> <i>Diámetro externo de alambre y cable con igual área</i>
             .col-7.mb-3
               figure
                 img(src='@/assets/curso/temas/tema1/6.svg', alt='')
-
             p De lo anterior, se puede concluir que para un alambre y un cable de igual área de sección transversal el cable tiene mayor diámetro, mayor área efectiva (en A.C), es decir, menor resistencia(en A.C) y mayor flexibilidad.
-            .titulo-sexto.color-acento-contenido
-              <b>Figura 4.</b> <i>Diámetro externo de alambre y cable con igual área</i>
 
     ul.lista-ul--color.lista-ul--separador
       li 

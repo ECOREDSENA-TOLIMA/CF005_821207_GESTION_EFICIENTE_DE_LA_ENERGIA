@@ -174,13 +174,13 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
+        titulo: 'Descargar PDF',
+        download: 'downloads/CFA_05_821207.pdf',
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar PDF',
-        download: 'downloads/CFA_05_821207.pdf',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
       },
       {
         icono: 'far fa-registered',
@@ -258,15 +258,19 @@ export default {
   referencias: [
     {
       referencia:
-        'Resolución 90708 de 2013 y anexos. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento técnico de instalaciones eléctricas - <i>RETIE</i>, que fija las condiciones técnicas que garanticen la seguridad en los procesos de generación, transmisión, transformación, distribución y utilización de la energía eléctrica en la república de Colombia y se dictan otras disposiciones. Agosto 30 de 2013.',
+        'Instituto Colombiano de Normas Técnicas y Certificación. (1998). <i>Norma Técnica Colombiana NTC 2050 Código Eléctrico Colombiano.</i> ICONTEC.',
+    },
+    {
+      referencia:
+        'Resolución 90708 de 2013 y anexos. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento técnico de instalaciones eléctricas - <i>RETIE</i>, que fija las condiciones técnicas que garanticen la seguridad en los procesos de generación, transmisión, transformación, distribución y utilización de la energía eléctrica en la república de Colombia y se dictan otras disposiciones. Agosto 30 de 2013. ',
       link:
         'https://sic.gov.co/sites/default/files/files/reglamentos%20tecnicos/ANEXO%20GENERAL%20RETIE%20Res%2090708%20de%202013%20actualizado%20a%20Res%202017-03-29.pdf',
     },
     {
       referencia:
-        'Resolución 181331 de 2009 y anexo. [Ministerio de Minas y Energía de Colombia].  Por la cual se expide el Reglamento técnico de iluminación y alumbrado público RETILAP y se dictan otras disposiciones. Agosto 6 de 2009.',
+        'Resolución 181331 de 2009 y anexo. [Ministerio de Minas y Energía de Colombia].  Por la cual se expide el Reglamento técnico de iluminación y alumbrado público RETILAP y se dictan otras disposiciones. Agosto 6 de 2009. ',
       link:
-        'https://sic.gov.co/sites/default/files/files/reglamentos%20tecnicos/RETILAP.pdf',
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=37131',
     },
   ],
   creditos: [
@@ -289,41 +293,41 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Carlos Javier González Cuevas ',
-          cargo: 'Experto Técnico ',
+          nombre: 'Carlos Javier González Cuevas',
+          cargo: 'Experto Técnico',
           centro:
-            'Regional Distrito Capital - Centro Electricidad Electrónica y Telecomunicaciones ',
+            'Regional Distrito Capital - Centro Electricidad Electrónica y Telecomunicaciones',
         },
         {
-          nombre: 'Leidy Carolina Arias  Aguirre ',
-          cargo: 'Diseñadora Instruccional ',
+          nombre: 'Leidy Carolina Arias Aguirre',
+          cargo: 'Diseñadora Instruccional',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Carolina Coca Salazar ',
-          cargo: 'Revisora Metodológica y Pedagógica ',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología ',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano Reyes ',
-          cargo: 'Responsable Equipo Desarrollo Curricular ',
-          centro:
-            'Regional D.C. - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Julia Isabel Roberto ',
-          cargo: 'Correctora de Estilo ',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Revisora Metodológica y Pedagógica',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Juan Gilberto Giraldo Cortés ',
-          cargo: 'Diseñador Instruccional ',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'María Inés Machado López ',
-          cargo: 'Revisora Metodológica y Pedagógica ',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Correctora de Estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Juan Gilberto Giraldo Cortés',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'María Inés Machado López',
+          cargo: 'Revisora Metodológica y Pedagógica',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -333,32 +337,32 @@ export default {
         {
           nombre: 'José Yobani Penagos Mora',
           cargo: 'Diseñador Web',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Sebastián Trujillo Afanador',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Storyboard e Ilustración',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Producción Audiovisual',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oleg Litvin',
           cargo: 'Animador ',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Francisco Javier Vásquez Suarez',
           cargo: 'Actividad Didáctica',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -368,12 +372,12 @@ export default {
         {
           nombre: 'Jorge Bustos Gómez',
           cargo: 'Validación y Vinculación en Plataforma LMS',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de Contenidos Accesibles',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
