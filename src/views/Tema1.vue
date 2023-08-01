@@ -98,6 +98,9 @@
         i.fas.fa-play
         | <b>Calibre AWG de conductores</b>
 
+    p Con el fin de normalizar el diámetro de los conductores se crearon varios sistemas de clasificación de calibres, siendo el #[em American Wire Gauge (AWG)] el adoptado por Colombia según la NTC 2050, aunque el Artículo 17 del #[em RETIE] permite especificar los calibres según el estándar europeo en mm#[sup 2].
+    h5 El estándar de calibres AWG también conocido por #[em Brown & Sharpe] fue definido para alambres con las siguientes reglas: 
+
     .row.justify-content-center.align-items-center
       .col-lg-7
         .tarjeta.tarjeta--gris
