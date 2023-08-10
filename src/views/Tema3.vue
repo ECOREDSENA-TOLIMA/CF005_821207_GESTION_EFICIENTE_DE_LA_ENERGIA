@@ -60,12 +60,12 @@
         .row.justify-content-center.mb-3
           .col-7
             img(src='@/assets/curso/temas/tema3/D7.svg' alt='AvatarTop')
-        p.text-small.text-center Señalizar y delimitar la zona de trabajo.
+        p.text-small.text-center Puesta a tierra temporales y en cortocircuito de todas las posibles fuentes de tensión que incidan en la zona de trabajo.
       .tarjeta.tarjeta--gris.p-4 
         .row.justify-content-center.mb-3
           .col-7
             img(src='@/assets/curso/temas/tema3/E8.svg' alt='AvatarTop')
-        p.text-small.text-center Puesta a tierra temporales y en cortocircuito de todas las posibles fuentes de tensión que incidan en la zona de trabajo.
+        p.text-small.text-center Señalizar y delimitar la zona de trabajo.
 
     //.row.justify-content-center.mb-3
     //  .col-lg-5

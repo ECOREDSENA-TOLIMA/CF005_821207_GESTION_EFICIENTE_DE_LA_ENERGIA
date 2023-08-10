@@ -176,7 +176,7 @@
               tr 
                 td.text-center M5
                 td.text-center 6
-                td.text-center 99 
+                td.text-center 9 
                 td.text-center 8
                 td.text-center 18%
 

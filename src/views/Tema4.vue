@@ -10,10 +10,10 @@
     .titulo-sexto.color-acento-contenido
       <b>Tabla 9.</b> <i>Cuadro de carga</i>
 
-    .row.justify-content-center
-      .col-12.mb-5
-        .tabla-a.color-acento-botones.mb-5 
-          table.text-center
+    .row.justify-content-center.mb-5
+      .col-12
+        .tabla-a.color-acento-botones
+          table.text-center(style="width:auto")
             thead
               tr.text-small
                 th(rowspan="2") Circuito
@@ -119,7 +119,7 @@
             p El valor de la columna potencia aparente en voltio amperios se calcula dividiendo la potencia total en vatios entre el f.p. promedio del circuito.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Cálculo de la magnitud")
             h4 Cálculo de la magnitud
-            p El valor de la columna potencia aparente en voltio amperios se calcula dividiendo la potencia total en vatios entre el f.p. promedio del circuito.
+            p Para el cálculo de la magnitud de la corriente es necesario usar las fórmulas para circuitos monofásicos y trifásicos según corresponda y con el valor de voltaje de fase y línea, de acuerdo con el tipo de red de alimentación de la instalación, es decir, voltaje de línea igual a dos veces el voltaje de fase para circuitos alimentados desde redes monofásicas trifilares y voltaje de línea igual a √3 veces el voltaje de fase para circuitos alimentados desde redes trifásicas tetrafilares.
       .col-lg-3
         figure
           img(src='@/assets/curso/temas/tema4/1.svg', alt='')
@@ -198,7 +198,7 @@
                   p.mb-0 100
                   p 40
                   p.mb-0 100
-                  p 40
+                  p 30
                   p.mb-0 100
                   p 60
               tr
@@ -341,7 +341,7 @@
               th Ubicación
               th Largo (m)
               th Ancho (m)
-              th Area (m#[sup 2])
+              th Área (m#[sup 2])
               th Flujo luminoso por lámpara (lumen)
               th Cantidad de lámparas
               th Iluminancia (lux)
