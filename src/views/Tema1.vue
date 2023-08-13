@@ -414,7 +414,7 @@
       .py-3.py-md-4(titulo="Cajas y conduletas")
         .row
           .col-md-8.mb-4.mb-md-0
-            p Según #[i RETIE], en el numeral 20.5, son elementos utilizados como encerramiento de aparatos eléctricos. Cuando los aparatos eléctricos son tomacorrientes, interruptores y plafones se usan cajas, que pueden ser metálicas (lámina #[em cold rolled] zincada) o no metálicas (PVC), rectangulares para interruptores y tomacorrientes y octogonales para portalámparas.  
+            p Según #[i RETIE], en el numeral 20.5, son elementos utilizados como encerramiento de aparatos eléctricos. Cuando los aparatos eléctricos son tomacorrientes, interruptores y plafones se usan cajas, que pueden ser metálicas (lámina #[em cold rolled zincada]) o no metálicas (PVC), rectangulares para interruptores y tomacorrientes y octogonales para portalámparas.  
             p Cuando se requiere instalar más de un aparato en la misma caja se usan cajas cuadradas. Estas vienen con perforaciones premoldeadas fáciles de remover según la necesidad. 
             p Cuando se necesitan hacer derivaciones del cableado o cuando la longitud de los tramos es muy larga se usan cajas o conduletas para realizar los empalmes necesarios o como puntos de halado en la instalación. Si los ductos son metálicos y la instalación está a la vista, se deben usar conduletas. En los demás casos se pueden usar cajas. 
           .col-md-4
