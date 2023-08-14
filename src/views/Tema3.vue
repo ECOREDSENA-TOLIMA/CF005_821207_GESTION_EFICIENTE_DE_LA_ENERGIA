@@ -27,7 +27,7 @@
             p Aplicando una sencilla regla de proporcionalidad se puede calcular para cada nivel de voltaje la distancia mínima que garantiza el aislamiento, y como el valor de 1 kV/cm es un valor promedio, se aplica un factor de seguridad al cálculo de estas distancias para disminuir el riesgo de electrocución. Como resultado del proceso descrito el #[i RETIE] en el numeral 10.4 establece los espacios mínimos para el montaje, operación y mantenimiento de los equipos eléctricos de acuerdo con su nivel de tensión y en el Artículo 13 establece las distancias horizontales y verticales mínimas que deben mantenerse respecto de las partes energizadas y, se definen las distancias mínimas de aproximación, como puede observarse en la siguiente figura:
 
         .titulo-sexto.color-acento-contenido
-          <b>Figura 9s.</b> <i> Límites de aproximación </i>
+          <b>Figura 9.</b> <i> Límites de aproximación </i>
         .row.justify-content-center
           .col-lg-10
             figure.mb-5
